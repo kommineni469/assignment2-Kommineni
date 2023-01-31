@@ -8,3 +8,8 @@ My favourite IPL team is CSK
 1. MS Dhoni
 2. R Jadeja
 3. Moen Ali
+
+Three other teams that I like is 
+- RCB
+- MI
+- DC
