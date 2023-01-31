@@ -27,3 +27,9 @@ First column of the table has country name. The second column has the reason to 
 | USA | National parks | 90 |
 | Itlay | Architecture | 30 |
 | Austrila | Beaches | 30 |
+
+----
+## Funny quotes
+> Age is an issue of mind over matter. If you don’t mind, it doesn’t matter. - *Mark Twain*
+
+> Never miss a good chance to shut up. – *Will Rogers*
