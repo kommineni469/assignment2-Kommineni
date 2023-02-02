@@ -33,3 +33,25 @@ First column of the table has country name. The second column has the reason to 
 > Age is an issue of mind over matter. If you don’t mind, it doesn’t matter. - *Mark Twain*
 
 > Never miss a good chance to shut up. – *Will Rogers*
+
+-----
+
+>How to keep text from running over svg in responsive design?<https://stackoverflow.com/questions/32292012/how-to-keep-text-from-running-over-svg-in-responsive-design>
+
+```
+<svg viewBox="0 0 100 100">
+  <text>
+    <tspan class="line-1" textLength="100" x="0" y="1em" font-size="20">
+      The Cat
+    </tspan>
+    <tspan class="line-2" textLength="100" x="0" dy="0.9em" font-size="20" lengthAdjust="spacingAndGlyphs">
+      in the
+    </tspan>
+    <tspan class="line-3" textLength="100" x="0" dy="0.9em" font-size="35">
+      Hat
+    </tspan>
+  </text>
+</svg>
+```
+
+<https://css-tricks.com/snippets/svg/text-lock-up/>
